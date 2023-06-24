@@ -1,0 +1,9 @@
+body {
+    background: #d9eefc;
+}
+.intro {
+    text-align: center;
+    font-size: 24px;
+    font-style: oblique;
+    text-shadow: 2px 2px 3px green;
+}
